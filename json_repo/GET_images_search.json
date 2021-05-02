@@ -1,0 +1,9 @@
+{
+    "method":"GET",
+    "uri":"https://api.thedogapi.com/v1/images/search",
+    "headers":
+        {
+            "x-api-key":"ABC123"
+        },
+    "expected_status_code":204
+}

@@ -1,0 +1,4 @@
+{
+    "bucket": "http-watcher-json-repo",
+    "topicSNSArn": "arn:aws:sns:us-east-1:*:http-watcher-tests-to-execute"
+}
