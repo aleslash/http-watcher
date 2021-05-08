@@ -1,4 +1,4 @@
-# Infrasctructure information
+# Infrastructure information
 
 ## IAM Roles
 ### http-watcher-endpoint-caller-policy
